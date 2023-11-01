@@ -133,7 +133,7 @@ So, feel free to fork this repo. If you do, please just give us proper credit.Re
 
 <td>
 
-#### Ank Aggarwal 
+#### Ank Agarwal 
 
 <p align="center">
 <img src = "https://avatars.githubusercontent.com/u/89304053?v=4"  height="120" >
