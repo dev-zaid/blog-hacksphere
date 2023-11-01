@@ -136,11 +136,11 @@ So, feel free to fork this repo. If you do, please just give us proper credit.Re
 #### Ank Aggarwal 
 
 <p align="center">
-<img src = "https://media.licdn.com/dms/image/D5603AQF-OXPN95O0Jg/profile-displayphoto-shrink_400_400/0/1682697491327?e=1692835200&v=beta&t=Dwm-B-49U9zD-F7Qys3YEO4eN35l_xYiq47esH6sUQI"  height="120" >
+<img src = "https://avatars.githubusercontent.com/u/89304053?v=4"  height="120" >
 </p>
 <p align="center">
-<a href = "https://github.com/mkswagger"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/mathangy-k/">
+<a href = "https://github.com/itsankk05"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "www.linkedin.com/in/ankagarwal05">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
