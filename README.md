@@ -90,11 +90,11 @@ So, feel free to fork this repo. If you do, please just give us proper credit.Re
 #### Seneen Khan
 
 <p align="center">
-<img src = "https://media.licdn.com/dms/image/D5603AQH1f5_AIgXPVg/profile-displayphoto-shrink_400_400/0/1679384347206?e=1692835200&v=beta&t=sUSKTbNXbxNZAqyxHGph-I1y8kJX_NI_4MB-F40aCbE"  height="120" alt="Astitva">
+<img src = "https://media.licdn.com/dms/image/D4E03AQGrxBTFjvLrVA/profile-displayphoto-shrink_400_400/0/1664465416073?e=1704326400&v=beta&t=fXW7s4mU_aBZNAYlPNd7OmM-qn55GPpgkGJVbnFOMEY"  height="120" alt="Seneen">
 </p>
 <p align="center">
-<a href = "https://github.com/tanmayagrwl"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/tanmayagr/">
+<a href = "https://github.com/seneenkhan"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/seneen-khan-511a06220/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
