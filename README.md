@@ -123,8 +123,8 @@ So, feel free to fork this repo. If you do, please just give us proper credit.Re
 <img src = "https://media.licdn.com/dms/image/D5603AQEw-NL_yEYF5w/profile-displayphoto-shrink_400_400/0/1672065785362?e=1692835200&v=beta&t=gMjrAEkVomIhpSynFEnN6eRXS5r-bH3zWy8qY5XFzGs"  height="120" >
 </p>
 <p align="center">
-<a href = "https://www.linkedin.com/in/ujjawal-jaiswal-81b6a4221/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aakash-rawat-a1a528236/">
+<a href = "https://github.com/Ujjawal0204"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ujjawal-jaiswal-81b6a4221/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
